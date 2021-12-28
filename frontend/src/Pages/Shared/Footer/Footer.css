@@ -1,0 +1,21 @@
+/* style for footer section */
+.footerCover{
+    background-color: #0E1D3A;
+  }
+  .footerLink h4{
+    color: whitesmoke;
+    font-weight: bold;
+  }
+  .footerLink{
+    text-align: start;
+  }
+  .footerLink p{
+    color: whitesmoke;
+    margin: 0;
+    margin-top: 5px;
+  }
+  
+  .copyright{
+    text-align: start;
+    color: gray;
+  }

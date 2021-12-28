@@ -1,0 +1,4 @@
+.form::placeholder {
+    color: white !important;
+    opacity: .8;
+    }
